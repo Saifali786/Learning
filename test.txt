@@ -1,2 +1,2 @@
-Main branch commit
+First line of comment
 Feature branch commit
